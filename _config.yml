@@ -78,10 +78,10 @@ navs:
 # labels. my blog key words
 labels:
 
-  -
-    href: /fastdfs.html
-    label: FastDFS
-    target: _blank
+  #-
+   # href: /fastdfs.html
+    #label: FastDFS
+    #target: _blank
 
 
 # selected articles
